@@ -1,0 +1,11 @@
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\bin\Debug\ProvaPO.exe.config
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\bin\Debug\ProvaPO.exe
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\bin\Debug\ProvaPO.pdb
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\obj\Debug\ProvaPO.csproj.AssemblyReference.cache
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\obj\Debug\ProvaPO.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\obj\Debug\ProvaPO.Form1.resources
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\obj\Debug\ProvaPO.Properties.Resources.resources
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\obj\Debug\ProvaPO.csproj.GenerateResource.cache
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\obj\Debug\ProvaPO.csproj.CoreCompileInputs.cache
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\obj\Debug\ProvaPO.exe
+C:\Users\2022102020065\source\repos\ProvaPO\ProvaPO\obj\Debug\ProvaPO.pdb
